@@ -4,6 +4,7 @@
 
 ## In this directory
 * "Forcing an Output in a Neural Network.ipynb"
+* "Forcing an Output in a Neural Network 2.ipynb"
 
 ## Installation and usage
 
